@@ -39,3 +39,6 @@ a>img{
     height: 30px;
     
 }
+.italic{
+    font-style: italic;
+}
