@@ -1,0 +1,41 @@
+h1,h2{
+    color: #9FC2F8;
+}
+html{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+body{
+
+    background-color: #595547;
+    color: #fff;
+    height: 0;
+}
+.header{
+    border-bottom: #fff 1px solid;
+}
+.span-head{
+    color: #FFF86B;
+    font-weight: 700;
+}
+a{
+    color: red;
+}
+.span-last{
+    color: #fff;
+    font-style: italic;
+}
+h1{
+    font-size: 40pt;
+}
+h2{
+    font-size: 18pt;
+}
+img{
+    height: 300px;
+}
+a>img{
+    height: 30px;
+    
+}
